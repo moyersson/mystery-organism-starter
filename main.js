@@ -13,11 +13,6 @@ const mockUpStrand = () => {
   return newStrand;
 };
 
-let variat=0;
-
-
-
-
-
-
-
+let variat=5;
+let varia2=1;
+let varia4 =3;
